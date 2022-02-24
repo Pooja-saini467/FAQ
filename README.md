@@ -18,9 +18,7 @@
 <img src="https://github.com/Pooja-saini467/FAQ/blob/main/design/desktop-design.jpg">
 
 ## Demo
-
-https://user-images.githubusercontent.com/90523453/155552451-63205f49-d29d-4865-bc49-3c4daba5c366.mp4
-
+https://user-images.githubusercontent.com/90523453/155552920-a9c93da6-e012-470f-a545-4498719cd707.mp4
 ## Live Link
 - Pooja-saini467(https://pooja-saini467.github.io/FAQ/)
 
