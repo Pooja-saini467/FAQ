@@ -15,7 +15,7 @@
 - It is simple accordian card .
 
 ## screenshot
-<img src="">
+<img src="https://github.com/Pooja-saini467/FAQ/blob/main/design/desktop-design.jpg">
 
 ## Demo
 
